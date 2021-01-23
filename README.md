@@ -4,4 +4,4 @@ Non HTML/CSS 'web-site' exploring how attractiveness can be quantified and the e
 Demo:
 
 
-![](Science of Attractiveness.png)
+![project image](The-Science-of-Attractivness/Science of Attractiveness.png)
